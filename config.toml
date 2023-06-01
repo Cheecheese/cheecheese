@@ -5,26 +5,16 @@ theme = 'PaperMod'
 
 
 [[menu.main]]
-identifier = "Search"
 name = "Search"
 url = "/search/"
 weight = 10
 
 [[menu.main]]
-identifier = "Posts"
 name = "Posts"
 url = "/posts/"
 weight = 20
 
 [[menu.main]]
-identifier = "Older Posts"
-name = "Older Posts"
-url = "/posts/olderposts"
-parent = 'Posts'
-weight = 1
-
-[[menu.main]]
-identifier = "TBA"
 name = "TBA"
 url = "TBA"
 weight = 30
