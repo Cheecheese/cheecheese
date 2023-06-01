@@ -17,6 +17,12 @@ url = "/posts/"
 weight = 20
 
 [[menu.main]]
+identifier = "Older Posts"
+name = "Older Posts"
+url = "/posts/olderposts"
+weight = 1
+
+[[menu.main]]
 identifier = "TBA"
 name = "TBA"
 url = "TBA"
