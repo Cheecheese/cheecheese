@@ -19,7 +19,9 @@ weight = 20
 [[menu.main]]
 identifier = "Older Posts"
 name = "Older Posts"
+pageRef = '/posts/olderposts'
 url = "/posts/olderposts"
+parent = 'Posts'
 weight = 1
 
 [[menu.main]]
