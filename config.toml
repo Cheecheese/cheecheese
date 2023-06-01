@@ -5,19 +5,19 @@ theme = 'PaperMod'
 
 
 [[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
+identifier = "Search"
+name = "Search"
+url = "/search/"
 weight = 10
 
 [[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
+identifier = "Posts"
+name = "Posts"
+url = "/posts/"
 weight = 20
 
 [[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
+identifier = "TBA"
+name = "TBA"
+url = "TBA"
 weight = 30
